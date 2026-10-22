@@ -35,6 +35,11 @@ Python's vast ecosystem contains specialized tools tailored for specific domains
 A major milestone in Python’s history was the transition from Python 2 to Python 3. Released in 2008, Python 3 introduced improvements in Unicode handling, integer division, and standard library consistency. Official support for Python 2 ended on January 1, 2020, making Python 3 the default standard for modern development.
 ## Career Opportunities & Industry Demand
 Due to its dominance in emerging fields like artificial intelligence and big data, proficiency in Python remains in high demand. Roles ranging from Data Scientists and Backend Developers to DevOps Engineers and Automation Testers frequently list Python as a primary requirement.
+## Developer Tools and IDE Support
+- **Visual Studio Code (VS Code):** Python seamlessly integrates with VS Code via official extensions, offering features like IntelliSense (code completion), interactive debugging, automated linting, and built-in Jupyter Notebook support directly inside the editor.
+- **PyCharm:** A dedicated, full-featured Python IDE developed by JetBrains that provides advanced refactoring, database tools, code analysis, and integrated test runners specifically built for large-scale Python development.
+- **Jupyter Notebooks:** A web-based interactive computational environment widely used in data science, machine learning, and research to combine live Python code, visualizations, and explanatory text in a single document.
+- **Git & GitHub Integration:** Python projects interact effortlessly with version control tools, allowing developers to manage dependencies using environments (like venv or Conda) and publish repositories to GitHub with automated CI/CD pipelines.
 ## Famous Applications and Websites Powered by Python
 Here are some of the top real-world examples:
 - **Web Platforms & Social Media:**
